@@ -20,6 +20,7 @@
         <mysql.version>5.1.37</mysql.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
+        <aspectjweaver.varsion>1.8.7</aspectjweaver.varsion>
 
     </properties>
 

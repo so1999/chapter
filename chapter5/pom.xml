@@ -51,6 +51,12 @@
             <version>${hibernate.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>${aspectjweaver.varsion}</version>
+        </dependency>
+
     </dependencies>
 
     <build>
